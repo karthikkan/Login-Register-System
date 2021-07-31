@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@700&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Fenix&display=swap');
+            form {
+            border-radius: 10px;vertical-align:middle;
+            padding: 5%;
+            background: #ffffff;
+            padding-top:30%;
+            padding-bottom:30%;
+            padding-left:10%;
+            padding-right: 10%;
+            margin-top:-10%;
+            }
+            body{
+            background: #383a3d;
+            padding-top: 10vh;
+            }
+            .form-control{
+            font-family: 'Fenix', serif;
+            }
+            .form-control:focus{
+            background-color: #383a3d;
+            color:#ffffff;
+            }
+            h2{
+            font-weight:bold;
+            font-family: 'Signika', sans-serif;
+            }
+            #login{
+            background-color:#04AA6D;
+            }
+            #login:hover{
+            background-color: #383a3d;
+            color:#ffffff;
+            }
+            label{
+            font-family: 'Fenix', serif;
+            }
